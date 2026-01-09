@@ -11,4 +11,3 @@ You can find me here:
 * [Mastodon](@alex_peltzer@genomic.social) / [BlueSky](https://bsky.app/profile/alexpeltzer.bsky.social)
 * [LinkedIn](https://www.linkedin.com/in/apeltzer/) / [Google Scholar](https://scholar.google.com/citations?user=XiBUuZgAAAAJ&hl=en) / [ORCid](https://orcid.org/0000-0002-6503-2180)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apeltzer&theme=gruvbox&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apeltzer&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
