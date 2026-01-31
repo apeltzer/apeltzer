@@ -1,6 +1,6 @@
 Hi! I'm @apeltzer (Alex Peltzer)👋
 
-I'm a bioinformatician from Germany currently working as a principal scientist in TMCP TA Oncology at Boehringer Ingelheim and thus currently work mostly in Clinical Oncology projects these days.
+I'm a bioinformatician from Germany currently working as a senior principal scientist in Experimental Medicine TA Oncology at Boehringer Ingelheim and thus currently work mostly in Translational Clinical Oncology projects these days.
 
 I co-founded the [nf-core](https://nf-co.re) community with which I'm still heavily involved as well as am still interested in all things around [Nextflow](https://nextflow.io). Previously, I worked on ancient DNA tools during my PhD, for which I have built and contributed to tools such as EAGER.
 
